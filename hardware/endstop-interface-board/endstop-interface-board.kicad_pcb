@@ -2264,15 +2264,15 @@
 			(uuid "0ddba056-da03-4ae5-9bb7-9c7ec276a0a6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/TerminalBlock_CUI.3dshapes/TerminalBlock_CUI_TB007-508-12_1x12_P5.08mm_Horizontal.step"
+		(model "${KIPRJMOD}/Same_Sky_TB007-508-12GR.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 61 -4.9 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -90)
 			)
 		)
 	)
@@ -2880,7 +2880,7 @@
 		(descr "Terminal Block CUI TB007-508-12, 12 pins, pitch 5.08mm, size 61.6x10.2mm, drill diameter 1.6mm, pad diameter 2.4mm, https://www.cuidevices.com/product/resource/tb007-508.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/scripts/TerminalBlock_CUI")
 		(tags "THT Terminal Block CUI TB007-508-12 pitch 5.08mm size 61.6x10.2mm drill 1.6mm pad 2.4mm")
 		(property "Reference" "J2"
-			(at -4.14 0 180)
+			(at -4.14 0 0)
 			(layer "F.SilkS")
 			(uuid "456f817c-e0ba-4429-b893-f571b1d662bf")
 			(effects
@@ -3639,15 +3639,15 @@
 			(uuid "4f9ca46a-7d90-4d25-bf6d-6e1e8f1db875")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/TerminalBlock_CUI.3dshapes/TerminalBlock_CUI_TB007-508-12_1x12_P5.08mm_Horizontal.step"
+		(model "${KIPRJMOD}/Same_Sky_TB007-508-12GR.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 61 -4.9 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -90)
 			)
 		)
 	)
@@ -3857,7 +3857,7 @@
 		(descr "Terminal Block CUI TB007-508-15, 15 pins, pitch 5.08mm, size 76.8x10.2mm, drill diameter 1.6mm, pad diameter 2.4mm, https://www.cuidevices.com/product/resource/tb007-508.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/scripts/TerminalBlock_CUI")
 		(tags "THT Terminal Block CUI TB007-508-15 pitch 5.08mm size 76.8x10.2mm drill 1.6mm pad 2.4mm")
 		(property "Reference" "J4"
-			(at -4.14 0 180)
+			(at -4.14 0 0)
 			(layer "F.SilkS")
 			(uuid "f25fb608-e273-4551-bde9-95ba6ba0d2ba")
 			(effects
@@ -4742,15 +4742,15 @@
 			(uuid "9549e4d6-1a16-457f-96d6-00bfce39e5ec")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/TerminalBlock_CUI.3dshapes/TerminalBlock_CUI_TB007-508-15_1x15_P5.08mm_Horizontal.step"
+		(model "${KIPRJMOD}/Same_Sky_TB007-508-15GR.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 76.27 -4.8 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -90)
 			)
 		)
 	)
@@ -4761,7 +4761,7 @@
 		(descr "Terminal Block CUI TB007-508-15, 15 pins, pitch 5.08mm, size 76.8x10.2mm, drill diameter 1.6mm, pad diameter 2.4mm, https://www.cuidevices.com/product/resource/tb007-508.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/scripts/TerminalBlock_CUI")
 		(tags "THT Terminal Block CUI TB007-508-15 pitch 5.08mm size 76.8x10.2mm drill 1.6mm pad 2.4mm")
 		(property "Reference" "J1"
-			(at -4.14 -2 180)
+			(at -4.14 -2 0)
 			(layer "F.SilkS")
 			(uuid "23fe34c2-a69d-468c-acba-afd343ff9c9a")
 			(effects
@@ -5646,15 +5646,15 @@
 			(uuid "c836d308-f3a6-415c-8c47-bc74dcd4e7d4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/TerminalBlock_CUI.3dshapes/TerminalBlock_CUI_TB007-508-15_1x15_P5.08mm_Horizontal.step"
+		(model "${KIPRJMOD}/Same_Sky_TB007-508-15GR.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 76.27 -4.8 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -90)
 			)
 		)
 	)
@@ -7365,6 +7365,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7376,6 +7377,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
